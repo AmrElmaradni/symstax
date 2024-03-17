@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646970404458",
+    "project_id": "tast-symstax",
+    "storage_bucket": "tast-symstax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646970404458:android:fe6d272ae4335f0c2ba413",
+        "android_client_info": {
+          "package_name": "com.amr.symstax"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOyr23v052SphKsJ_9H395b-e_LE2Mgtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
