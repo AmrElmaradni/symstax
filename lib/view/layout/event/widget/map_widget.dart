@@ -1,12 +1,11 @@
 import 'dart:async';
 
 import 'package:easy_localization/easy_localization.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:gap/gap.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 import 'package:location/location.dart';
+
 import '../../../../helpers/locale/app_locale_key.dart';
 import '../../../../helpers/theme/app_colors.dart';
 import '../../../custom_widgets/buttons/custom_button.dart';
